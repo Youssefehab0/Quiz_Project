@@ -1,0 +1,6 @@
+@Quiz_project_HostAddress = http://localhost:5078
+
+GET {{Quiz_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
